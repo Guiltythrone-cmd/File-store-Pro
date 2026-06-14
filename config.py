@@ -45,7 +45,7 @@ MESSAGES = {
 
 <blockquote><b>ʏᴏᴜʀ ғɪʟᴇ ɪs ʀᴇᴀᴅʏ ‼️ ʟᴏᴏᴋs ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ sᴜʙsᴄʀɪʙᴇᴅ ᴛᴏ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʏᴇᴛ, sᴜʙsᴄʀɪʙᴇ ɴᴏᴡ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ғɪʟᴇs</b></blockquote>,
 
-<blockquote><b>ᴅᴇᴠʟᴏᴘᴇᴅ ғᴏʀ - @LustyDormNeT</b></blockquote>",
+<blockquote><b>ᴅᴇᴠʟᴏᴘᴇᴅ ғᴏʀ - @LustyDormNeT </b></blockquote>",
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: <a href='https://t.me/HypoFlix_Network'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>\n<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HypoFlix_Network'>ʜʏᴘᴏғʟɪx_ᴏғғɪᴄɪᴀʟ</a> \n›› ᴏᴡɴᴇʀ: @BlurpleOG\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @BlurpleOg</b></blockquote>",
     "CHANNELS":"<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HypoFlix_Network/21'>Aɴɪᴍᴇ sᴄᴏᴘᴇ</a>\n<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/MOVIESS_SPOT/2'>ᴍᴏᴠɪᴇ sᴘᴏᴛ</a>\n›› ᴀɴɪᴍᴇ ᴇᴅɪᴛᴢ: <a href='https://t.me/HypoFlix'>ᴀɴɪᴍᴇ'ᴢ ᴇᴅɪᴛ'ᴢ</a>\n›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/LustyDormNeT'>ʟᴜsᴛʏ ᴅᴏʀᴍ</a>\n›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/PornhwaRange/3'>ᴘᴏʀɴʜᴡᴀ ʀᴀɴɢᴇ</a>\n›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/HypoFlix_Network'>ʜʏᴘᴏғʟɪx</a>\n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @BlurpleOG</b></blockquote>",
     "REPLY": "<b>ғᴜᴄᴋ ᴏғғ ʙɪᴛᴄʜ !!!</b>",
