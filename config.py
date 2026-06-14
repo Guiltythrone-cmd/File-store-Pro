@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/Tutorialfyy" # shortner tutorial link
 
 # Bot Configuration
 SESSION = "HypoFlix-Botz"
-TOKEN = "8844757030:AAEJLzf3vspH1jrx1bCaRQFjWXBtuvkaMpc" # Bot token
+TOKEN = "8844757030:AAGHkZ94yrBtnOTewvq2SkGTqKO35F6O5wQ" # Bot token
 API_ID = "31761013" # API ID
 API_HASH = "3d55d62014467b2a922c6c0d6d95deae" # API HASH
 WORKERS = 5
